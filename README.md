@@ -4,22 +4,13 @@
 Repository to show the basics of visualization in pandas
 
 ## Problem Statement
-- Describe the optimization/ML problem being solved
-- Key objectives
-- Constraints (if applicable)
-
-## Methods/Architecture
-- List of algorithms/methods used (e.g., MILP, Genetic Algorithm, CNN, etc.)
-- Model architecture (for DL projects)
-- Optimization formulation (for exact methods)
-- Key parameters and hyperparameters
+- How to use pandas built-in plotting methods?
 
 ## Requirements
 ```bash
-numpy==1.21.0
-pytorch==1.9.0
-scikit-learn==0.24.2
-# Add other dependencies
+numpy
+pandas
+scipy
 ```
 ## Project Structure
 
@@ -27,13 +18,7 @@ scikit-learn==0.24.2
 ├── data/              # Dataset files
 │   ├── processed/     # Cleaned and processed data
 │   └── raw/          # Original data
-├── models/            # Trained models
 ├── notebooks/         # Jupyter notebooks
-├── references/        # Papers, documentation, etc.
-├── src/              # Source code
-│   ├── data.py       # Data processing functions
-│   ├── models.py     # Model implementations
-│   └── utils.py      # Utility functions
 ├── .gitignore        # Git ignore file
 ├── README.md         # Project documentation
 └── requirements.txt  # Dependencies
@@ -41,14 +26,11 @@ scikit-learn==0.24.2
 
 ## Setup and Installation
 ```bash
-git clone https://github.com/username/project-name.git
-cd project-name
+git clone https://github.com/oalotaik/pandas-visualization-basics.git
+cd pandas-visualization-basics
 pip install -r requirements.txt
 ```
 
-## Results
-
-Summarize the main results
 
 ## Citation
 If this project was useful for your research, please cite:
