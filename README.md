@@ -1,7 +1,7 @@
 # Project Title
 
 ## Overview
-Brief description of your project, including its main purpose and key features. (2-3 sentences)
+Repository to show the basics of visualization in pandas
 
 ## Problem Statement
 - Describe the optimization/ML problem being solved
