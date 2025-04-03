@@ -1,4 +1,4 @@
-# Project Title
+# Pandas Visualization Basics
 
 ## Overview
 Repository to show the basics of visualization in pandas
