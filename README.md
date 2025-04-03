@@ -36,7 +36,7 @@ pip install -r requirements.txt
 If this project was useful for your research, please cite:
 ```bash
 @article{Alotaik2025project,
-  title={Project Title},
+  title={pandas-visualization-basics},
   author={Alotaik, O.},
   year={2025}
 }
